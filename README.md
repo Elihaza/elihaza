@@ -6,9 +6,9 @@
 
 
 ## :bust_in_silhouette: About me
-* :fr: French living in Chambéry (Savoie)
+* :fr: French living in Chambéry (Savoie) :sunrise_over_mountains:
 * :mortar_board: Finished the 42 Cursus !
-* :heart: I like code :computer:, piano :musical_keyboard:, chess :crown: and sport :ski::climbing:
+* :heart: I like code :computer:, piano :musical_keyboard:, chess :crown: and sports :ski::climbing:
 <!-- * :fire: Available for freelance projects -->
 
 
