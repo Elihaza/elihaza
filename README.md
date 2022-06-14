@@ -6,10 +6,9 @@
 
 
 ## :bust_in_silhouette: About me
-* :man: Pronouns: He/Him
-* :fr: French living in Paris
-* :seedling: Currently working on a web application in my cursus at 42
-* :heart: I like code :computer:, photography :camera_flash:, and sport :swimmer: :boxing_glove: :climbing:
+* :fr: French living in Chambéry (Savoie)
+* :mortar_board: Finished the 42 Cursus !
+* :heart: I like code :computer:, piano :musical_keyboard:, chess :crown: and sport :ski::climbing:
 <!-- * :fire: Available for freelance projects -->
 
 
@@ -48,4 +47,4 @@
 <!--![trophy](https://github-profile-trophy.vercel.app/?username=hugothms)-->
 
 
-<h1 align='center'> 👇 Scroll down!👇 </h1>
+<h1 align='center'> 👇 Scroll down! 👇 </h1>
